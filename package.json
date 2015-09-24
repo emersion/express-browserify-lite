@@ -1,0 +1,29 @@
+{
+  "name": "express-browserify-lite",
+  "version": "0.1.0",
+  "description": "Middleware for browserify-lite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersion/express-browserify-lite.git"
+  },
+  "keywords": [
+    "browserify",
+    "lite",
+    "express",
+    "connect",
+    "middleware"
+  ],
+  "author": "emersion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersion/express-browserify-lite/issues"
+  },
+  "homepage": "https://github.com/emersion/express-browserify-lite#readme",
+  "dependencies": {
+    "browserify-lite": "^0.4.0"
+  }
+}
